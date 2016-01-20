@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Character/PlayerControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UI/ButtonEvent.cs" Line="495" Column="36" />
+      <File FileName="Assets/Scripts/AI/AI.cs" Line="150" Column="34" />
+      <File FileName="Assets/Scripts/Character/PlayerHealth.cs" Line="76" Column="7" />
+      <File FileName="Assets/Scripts/Main/GamePlay.cs" Line="219" Column="32" />
+      <File FileName="Assets/Scripts/Character/PlayerControl.cs" Line="54" Column="55" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,315 @@
+fileFormatVersion: 2
+guid: dc0094a6ff947fe4ea2b577c4a4a9f92
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Body
+    100002: Bone001
+    100004: Bone002
+    100006: Bone003
+    100008: Bone004
+    100010: Bone005
+    100012: Bone006
+    100014: Bone007
+    100016: Bone008
+    100018: Bone009
+    100020: Bone010
+    100022: Bone011
+    100024: Bone012
+    100026: Bone013
+    100028: Bone014
+    100030: Bone015
+    100032: Bone016
+    100034: Bone017
+    100036: Bone018
+    100038: Bone019
+    100040: Bone020
+    100042: Bone021
+    100044: Bone022
+    100046: Bone023
+    100048: Bone024
+    100050: Bone025
+    100052: Bone026
+    100054: Camera001
+    100056: Camera001.Target
+    100058: //RootNode
+    100060: Circle003
+    100062: Circle007
+    100064: Cone001
+    100066: Cylinder001
+    100068: FingleCL
+    100070: FingleCL001
+    100072: FingleGL
+    100074: FingleGL001
+    100076: FinglePL
+    100078: FinglePL001
+    100080: Group001
+    100082: Group002
+    100084: Group003
+    100086: Group004
+    100088: HandL
+    100090: HandL001
+    100092: Plane001
+    100094: Sphere002
+    400000: Body
+    400002: Bone001
+    400004: Bone002
+    400006: Bone003
+    400008: Bone004
+    400010: Bone005
+    400012: Bone006
+    400014: Bone007
+    400016: Bone008
+    400018: Bone009
+    400020: Bone010
+    400022: Bone011
+    400024: Bone012
+    400026: Bone013
+    400028: Bone014
+    400030: Bone015
+    400032: Bone016
+    400034: Bone017
+    400036: Bone018
+    400038: Bone019
+    400040: Bone020
+    400042: Bone021
+    400044: Bone022
+    400046: Bone023
+    400048: Bone024
+    400050: Bone025
+    400052: Bone026
+    400054: Camera001
+    400056: Camera001.Target
+    400058: //RootNode
+    400060: Circle003
+    400062: Circle007
+    400064: Cone001
+    400066: Cylinder001
+    400068: FingleCL
+    400070: FingleCL001
+    400072: FingleGL
+    400074: FingleGL001
+    400076: FinglePL
+    400078: FinglePL001
+    400080: Group001
+    400082: Group002
+    400084: Group003
+    400086: Group004
+    400088: HandL
+    400090: HandL001
+    400092: Plane001
+    400094: Sphere002
+    2300000: Cone001
+    2300002: HandL
+    2300004: HandL001
+    2300006: Plane001
+    2300008: Sphere002
+    3300000: Cone001
+    3300002: HandL
+    3300004: HandL001
+    3300006: Plane001
+    3300008: Sphere002
+    4300000: Plane001
+    4300002: Body
+    4300004: Circle003
+    4300006: Circle007
+    4300008: FinglePL
+    4300010: FingleGL
+    4300012: HandL
+    4300014: FingleCL
+    4300016: FinglePL001
+    4300018: FingleGL001
+    4300020: HandL001
+    4300022: FingleCL001
+    4300024: Cylinder001
+    4300026: Sphere002
+    4300028: Cone001
+    7400000: Take 001
+    7400002: Death
+    9500000: //RootNode
+    13700000: Body
+    13700002: Circle003
+    13700004: Circle007
+    13700006: Cylinder001
+    13700008: FingleCL
+    13700010: FingleCL001
+    13700012: FingleGL
+    13700014: FingleGL001
+    13700016: FinglePL
+    13700018: FinglePL001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 360
+      lastFrame: 391
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Bone010
+        weight: 1
+      - path: Bone010/Bone011
+        weight: 1
+      - path: Bone010/Bone011/Bone012
+        weight: 1
+      - path: Camera001
+        weight: 1
+      - path: Camera001.Target
+        weight: 1
+      - path: Circle003
+        weight: 1
+      - path: Circle007
+        weight: 1
+      - path: Group002
+        weight: 1
+      - path: Group002/Bone001
+        weight: 1
+      - path: Group002/Bone001/Bone002
+        weight: 1
+      - path: Group002/Bone001/Bone002/Bone003
+        weight: 1
+      - path: Group002/Bone004
+        weight: 1
+      - path: Group002/Bone004/Bone005
+        weight: 1
+      - path: Group002/Bone004/Bone005/Bone006
+        weight: 1
+      - path: Group002/Bone007
+        weight: 1
+      - path: Group002/Bone007/Bone008
+        weight: 1
+      - path: Group002/Bone007/Bone008/Bone009
+        weight: 1
+      - path: Group002/FingleCL
+        weight: 1
+      - path: Group002/FingleGL
+        weight: 1
+      - path: Group002/FinglePL
+        weight: 1
+      - path: Group002/HandL
+        weight: 1
+      - path: Group003
+        weight: 1
+      - path: Group003/Bone013
+        weight: 1
+      - path: Group003/Bone013/Bone014
+        weight: 1
+      - path: Group003/Bone013/Bone014/Bone015
+        weight: 1
+      - path: Group003/Bone016
+        weight: 1
+      - path: Group003/Bone016/Bone017
+        weight: 1
+      - path: Group003/Bone016/Bone017/Bone018
+        weight: 1
+      - path: Group003/Bone019
+        weight: 1
+      - path: Group003/Bone019/Bone020
+        weight: 1
+      - path: Group003/Bone019/Bone020/Bone021
+        weight: 1
+      - path: Group003/FingleCL001
+        weight: 1
+      - path: Group003/FingleGL001
+        weight: 1
+      - path: Group003/FinglePL001
+        weight: 1
+      - path: Group003/HandL001
+        weight: 1
+      - path: Group004
+        weight: 1
+      - path: Group004/Bone022
+        weight: 1
+      - path: Group004/Bone022/Bone023
+        weight: 1
+      - path: Group004/Bone022/Bone023/Bone024
+        weight: 1
+      - path: Group004/Bone022/Bone023/Bone024/Bone025
+        weight: 1
+      - path: Group004/Bone022/Bone023/Bone024/Bone025/Bone026
+        weight: 1
+      - path: Group004/Cylinder001
+        weight: 1
+      - path: Group004/Group001
+        weight: 1
+      - path: Group004/Group001/Cone001
+        weight: 1
+      - path: Group004/Group001/Sphere002
+        weight: 1
+      - path: Plane001
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
